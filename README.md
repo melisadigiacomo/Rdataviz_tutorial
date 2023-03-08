@@ -2,7 +2,7 @@
 
 En este material encontrarás una guía completa para aprender a crear y personalizar diferentes tipos de gráficos para visualizar tus datos de manera efectiva. Desde gráficos básicos como histogramas y diagramas de dispersión, hasta gráficos más avanzados como barras apiladas y diagramas de violín, aquí podrás aprender cómo utilizar las funciones de R base y el tan utilizado paquete {ggplot2} para crear gráficos atractivos y significativos. Además, encontrarás código en R y explicaciones detalladas para ayudarte a entender el proceso detrás de cada gráfico. ¡Comencemos a explorar el mundo de la visualización de datos!
 
-## [LINK]()
+## [LINK](https://melisadigiacomo.github.io/Rdataviz_tutorial/)
 
 ![inicio](images/RDataViz_tutorial.png)
 
